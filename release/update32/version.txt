@@ -1,0 +1,8 @@
+{
+    "description":"发布v2.6, 修正部分订阅导入失败, 优化 PAC, 改进代理服务器编辑界面,允许在编辑服务器界面导入导出分享链接。",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update32/",
+    "version":"2.6"
+}
